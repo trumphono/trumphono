@@ -71,3 +71,6 @@ deploy:
   type: git
   repo: https://github.com/trumphono/trumphono
   branch: gh-pages
+
+sitemap:
+  path: sitemap.xml
